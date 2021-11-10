@@ -1,6 +1,8 @@
 # Project Catwalk
 ## Hackreactor Frontend Capstone Project
 
+![ProductOverview]
+
 ---
 ## Tech Stack
 
@@ -75,3 +77,6 @@ Product Overview : Developed By [Lenora Esquenazi](https://github.com/Lenaciousd
 Related Products: Developed by [Cora Durham](https://github.com/Cora-Du)<br >
 Questions & Answers: Developed by [Matthew Boyle](https://github.com/matthewtboyle)<br >
 Reviews : Developed by [Jesus Gonzales](https://github.com/JGon26)<br >
+
+<!-- images -->
+[ProductOverview]: src/assets/TrouserBrowserProductOverview.png
